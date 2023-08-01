@@ -1,6 +1,6 @@
-package HW_2.task_1;
+package hw_2.task_1;
 
-import static HW_2.task_1.ICat.*;
+import static hw_2.task_1.ICat.*;
 
 public class Main {
     public static void main(String[] args) {

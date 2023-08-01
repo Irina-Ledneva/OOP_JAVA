@@ -1,5 +1,5 @@
 
-package HW_2.task_2;
+package hw_2.task_2;
 
 import java.util.ArrayList;
 
